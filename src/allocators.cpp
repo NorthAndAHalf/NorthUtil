@@ -1,6 +1,6 @@
 #include <northutil/allocators.hpp>
 
-namespace northutil
+namespace NorthUtil
 {
     int TestRunner::RunTest(int testVal)
     {
